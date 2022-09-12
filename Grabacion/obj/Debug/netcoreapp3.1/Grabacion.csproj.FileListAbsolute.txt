@@ -1,0 +1,202 @@
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\testhost.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\nunit.engine.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.deps.json
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.runtimeconfig.json
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.runtimeconfig.dev.json
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.pdb
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\nunit.framework.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.csproj.AssemblyReference.cache
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.AssemblyInfoInputs.cache
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.AssemblyInfo.cs
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.csproj.CoreCompileInputs.cache
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.csproj.CopyComplete
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.pdb
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.genruntimeconfig.cache
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\eduard.solbros\Downloads\SeleniumPruebas\Grabacion\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\testhost.exe
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\testhost.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\nunit.engine.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\nunit.engine.api.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\nunit.engine.core.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.PlatformAbstractions.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.deps.json
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.runtimeconfig.json
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.runtimeconfig.dev.json
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Grabacion.pdb
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CoreUtilities.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CommunicationUtilities.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.CrossPlatEngine.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.TestPlatform.Utilities.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.Common.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\nunit.framework.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\WebDriver.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.csproj.AssemblyReference.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.GeneratedMSBuildEditorConfig.editorconfig
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.AssemblyInfoInputs.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.AssemblyInfo.cs
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.csproj.CoreCompileInputs.cache
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.csproj.CopyComplete
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.dll
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.pdb
+\\pepino\HVCompartir\Temporal\Documentos Juan Pablo\Proyecto Ejemplo Selenium\Grabacion\obj\Debug\netcoreapp3.1\Grabacion.genruntimeconfig.cache
